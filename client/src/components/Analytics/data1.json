@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Revenue",
+    "desc": "Total revenue generated",
+    "value": "$10,000",
+    "gain": true,
+    "gainValue": "+$2,000",
+    "gainValuePercentage": "(+20%)",
+    "value2": "800",
+    "value2Type": "USD"
+  },
+  {
+    "id": 2,
+    "title": "Sales",
+    "desc": "Total sales",
+    "value": "500",
+    "gain": true,
+    "gainValue": "+50",
+    "gainValuePercentage": "(+10%)",
+    "value2": "450",
+    "value2Type": "INR"
+  },
+  {
+    "id": 3,
+    "title": "Customers",
+    "desc": "Total Customers",
+    "value": "1,200",
+    "gain": false,
+    "gainValue": "-100",
+    "gainValuePercentage": "(-8.3%)",
+    "value2": "1,30",
+    "value2Type": "USD"
+  },
+  {
+    "id": 4,
+    "title": "Profit",
+    "desc": "Net profit for this quarter",
+    "value": "$30,00",
+    "gain": true,
+    "gainValue": "+$5,0",
+    "gainValuePercentage": "(+20%)",
+    "value2": "123",
+    "value2Type": "USD"
+  }
+]
